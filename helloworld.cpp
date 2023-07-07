@@ -1,10 +1,10 @@
 // C++ program to display "Hello World"
-#include <iostream>
+#include <iostream>//header file
 using namespace std;
-int main()
+int main()//main function
 {
 	// Prints hello world
 	cout << "Hello World";
 
-	return 0;
+	return 0;//returns 0 if no errors
 }
